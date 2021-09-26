@@ -7,7 +7,10 @@ function App() {
   return (
     <div className="App">
 
+      {/* header component */}
       <Header></Header>
+      
+      {/* main component */}
       <Main></Main>
       
     </div>
