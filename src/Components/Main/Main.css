@@ -6,3 +6,12 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
+
+
+/* responsive here  */
+@media screen and (max-width:768px) {
+    .main-container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }   
+}
