@@ -1,0 +1,8 @@
+.title{
+    border-bottom: 1px dashed #2e86de;
+    display: inline;
+}
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
